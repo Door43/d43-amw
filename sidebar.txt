@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[amw:home|Door43 (amw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-amw|d43-amw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-amw/archive/master.zip|d43-amw.zip]]
+
+**Recent Changes**
+{{changes>ns = amw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/amw|Ethnologue data]]
+
